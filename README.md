@@ -13,5 +13,7 @@ Username: admin@casadocodigo.com.br
 
 Password: 123456
 
+The image below links to a video for a brief demonstration:
+
 [![Java coding](http://img.youtube.com/vi/DY7-Cugu2c0/0.jpg)](http://www.youtube.com/watch?v=DY7-Cugu2c0 "Java coding - Casa Do Código example")
 
